@@ -1,4 +1,4 @@
-# Scientific Calculator
+# Blackjack
 
 A very simple Blackjack game program in the console/terminal. Uses a random module to generate numbers.
 
@@ -99,9 +99,10 @@ gamesFinal = 0
                     "Percentage of Player wins:",
                     f"{round((winsTotal / gamesFinal) * 100, 2)}%",
 
-## Sample Output
+```
+Sample Output
 
-```python
+````python
 START GAME #1
 
 Your card is a 5!
