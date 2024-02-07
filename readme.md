@@ -66,7 +66,7 @@ while True:
 
 On selection three, I used the array values to help calculate the wins and percentage statistic.
 
-````python
+```python
 cardNames = {
     1: "ACE",
     11: "JACK",
@@ -100,9 +100,10 @@ gamesFinal = 0
                     f"{round((winsTotal / gamesFinal) * 100, 2)}%",
 
 ```
+
 Sample Output
 
-````python
+```python
 START GAME #1
 
 Your card is a 5!
@@ -149,4 +150,4 @@ Dealer's hand: 24
 Your hand is: 16
 
 You win!
-````
+```
